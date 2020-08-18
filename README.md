@@ -5,7 +5,7 @@
 
 ## :clipboard: About the project
 
-Uma aplicação web indispensável para cronometrar atividades executadas e ter um gerenciamento melhor do tempo, além de possuir um visual moderno e clean ainda tem a opção de  você trocar as cores de fundo. caso queira testar [acesse aqui](https://jhonywalker-pixel.github.io/stopwatch-color/).
+An indispensable web application to time activities performed and have better time management, in addition to having a modern and clean look, you still have the option of changing the background colors. in case you want to test [access here](https://jhonywalker-pixel.github.io/stopwatch-color/).
 
 ## :computer: Languages used
 
