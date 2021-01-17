@@ -7,7 +7,7 @@
 
 An indispensable web application to time activities performed and have better time management, in addition to having a modern and clean look, you still have the option of changing the background colors. in case you want to test [access here](https://jhonywalker-pixel.github.io/stopwatch-color/).
 
-## :computer: Languages used
+## :computer: Used language
 
 In addition to our dear HTML and CSS I used a very well-known language:
 * Javascript
@@ -15,6 +15,6 @@ In addition to our dear HTML and CSS I used a very well-known language:
 * jquerry
 
 
-## :book: Licença
+## :book: License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for more details.
