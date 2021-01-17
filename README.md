@@ -5,7 +5,7 @@
 
 ## :clipboard: About the project
 
-Uma aplicação web indispensável para cronometrar atividades executadas e ter um gerenciamento melhor do tempo, além de possuir um visual moderno e clean ainda tem a opção de  você trocar as cores de fundo. caso queira testar [acesse aqui](#).
+An indispensable web application to time activities performed and have better time management, in addition to having a modern and clean look, you still have the option of changing the background colors. if you want to test [access here](https://jhonywalker-pixel.github.io/stopwatch-color/).
 
 ## :computer: Languages used
 
@@ -15,6 +15,6 @@ In addition to our dear HTML and CSS I used a very well-known language:
 * jquerry
 
 
-## :book: Licença
+## :book: License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for more details.
